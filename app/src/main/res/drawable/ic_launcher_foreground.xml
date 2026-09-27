@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center AI Sparkle / Hex Diamond -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,26 L63,45 L82,54 L63,63 L54,82 L45,63 L26,54 L45,45 Z" />
+    <!-- Glowing core star -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,34 L60,48 L74,54 L60,60 L54,74 L48,60 L34,54 L48,48 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 L58,50 L66,54 L58,58 L54,66 L50,58 L42,54 L50,50 Z" />
+    <!-- Secondary satellite sparkles -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M75,28 L78,34 L84,37 L78,40 L75,46 L72,40 L66,37 L72,34 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M33,68 L35,72 L39,74 L35,76 L33,80 L31,76 L27,74 L31,72 Z" />
+</vector>

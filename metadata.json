@@ -1,0 +1,6 @@
+{
+  "name": "k&m Ai",
+  "description": "المساعد الشخصي الذكي المتكامل - قول لي محتاج إيه... وأنا أساعدك",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
